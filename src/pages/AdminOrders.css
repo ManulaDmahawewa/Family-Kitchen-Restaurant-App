@@ -1,0 +1,15 @@
+.order-table-container {
+  padding: 0 30px;
+}
+
+.order-table-container h2 {
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.order-qty {
+  text-align: end;
+  padding-right: 28px;
+}

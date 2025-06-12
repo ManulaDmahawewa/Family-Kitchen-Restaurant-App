@@ -1,0 +1,25 @@
+.items-form {
+  padding: 30px;
+}
+
+.items-form h2 {
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.items-form Input {
+  margin-bottom: 20px;
+}
+
+.items-form Button {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.items-form img {
+  width: 250px;
+  aspect-ratio: 1/0.6;
+  object-fit: cover;
+}

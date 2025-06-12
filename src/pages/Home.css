@@ -1,0 +1,12 @@
+.main {
+  min-height: 100vh;
+  padding-bottom: 10px;
+  background-color: #f9fafb;
+}
+.middle-section {
+  min-height: 85vh;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  padding: 0px 20px;
+}

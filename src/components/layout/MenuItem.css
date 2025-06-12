@@ -1,0 +1,23 @@
+.menuItem-container {
+  filter: drop-shadow(0 1px 2px rgb(0 0 0/0.1))
+    drop-shadow(0 1px 1px rgb(0 0 0/0.06));
+  background-color: white;
+  height: 250px;
+}
+
+.menuItem-container img {
+  width: 100%;
+  aspect-ratio: 1/0.43;
+  object-fit: cover;
+}
+
+.menuItem-container h5,
+p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.menuItem-container h5 {
+  font-weight: bold;
+  font-size: 1.1rem;
+}

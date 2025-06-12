@@ -1,0 +1,36 @@
+.orderItem-container {
+  display: grid;
+  align-items: center;
+  gap: 10px;
+  grid-template-columns: 3fr 3fr 1fr;
+  padding: 10px 10px;
+}
+
+.orderItem-container img {
+  width: 100%;
+  aspect-ratio: 1/0.7;
+  object-fit: cover;
+}
+
+.itemDetail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 20px;
+}
+
+.itemDetail-container h3 {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.btn-section {
+  display: flex;
+  gap: 10px;
+}
+
+.delete-btn-section {
+  display: flex;
+  justify-content: end;
+}

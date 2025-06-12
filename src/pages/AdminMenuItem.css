@@ -1,0 +1,20 @@
+.admin-menu-item-section {
+  padding: 0px 30px;
+}
+
+.admin-menu-item-section h2 {
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.admin-menu-item-section Button {
+  margin-bottom: 25px;
+}
+
+.itemImage {
+  width: 150px;
+  aspect-ratio: 1/0.6;
+  object-fit: cover;
+}
